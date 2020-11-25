@@ -1,0 +1,7 @@
+{
+    "name": "Sample HolyGrail Project",
+    "private": true,
+    "designSystem": {
+        "path": "./system.design.json"
+    }
+}
