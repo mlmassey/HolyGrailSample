@@ -9,8 +9,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12.x
-    - name: Install dependencies
-      run: yarn install
     - name: Build
       run: echo "Nothing to do"
     - name: Ping FeaturePeek
